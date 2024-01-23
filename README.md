@@ -1,2 +1,2 @@
 # rohanMeher
-Startup-ready web skeleton
+Startup-ready web Skeleton
